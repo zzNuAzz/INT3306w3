@@ -1,0 +1,55 @@
+.top-nav-bar {
+  background-color: #333;
+  height: 50px;
+  top: 0;
+  width: 100%;
+  position: fixed;
+  left: 0;
+}
+
+.nav-item {
+  float: right;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.side-bar {
+  top: 50px;
+  width: 300px;
+  position: fixed;
+  height: 100%;
+  left: 0;
+}
+
+.side-bar ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 300px;
+  background-color: #f1f1f1;
+  height: 100%;
+  position: fixed;
+  overflow: auto;
+}
+
+.side-bar li a {
+  display: block;
+  color: #000;
+  padding: 8px 8px;
+  text-decoration: none;
+}
+
+.side-bar li a.active {
+  color: white;
+  background-color: #4caf50;
+}
+
+.content {
+  top: 50px;
+  width: 300px;
+  padding: 20px;
+  margin-top: 50px;
+}
