@@ -1,6 +1,6 @@
 ---
 layout: main
 nav: CSS
-side: paragraphs
+side: Fonts
 ---
 {% include content.md nav=page.nav side=page.side %}

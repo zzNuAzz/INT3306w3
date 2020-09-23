@@ -1,6 +1,6 @@
 ---
 layout: main
 nav: CSS
-side: lists
+side: Colors
 ---
 {% include content.md nav=page.nav side=page.side %}
