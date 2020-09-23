@@ -1,6 +1,6 @@
 ---
 layout: main
 nav: HTML
-side: paragraphs
+side: Paragraphs
 ---
 {% include content.md nav=page.nav side=page.side %}
