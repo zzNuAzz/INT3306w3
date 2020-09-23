@@ -7,7 +7,7 @@
   left: 0;
 }
 
-.nav-item {
+.top-nav-bar a {
   float: right;
   display: block;
   color: #f2f2f2;
@@ -48,8 +48,10 @@
 }
 
 .content {
-  top: 50px;
-  width: 300px;
+  /* top: 50px; */
+  position: fixed;
+  left: 300px;
+  /* width: 300px; */
   padding: 20px;
   margin-top: 50px;
 }
