@@ -9,10 +9,10 @@
       <a {% if include.side contains "paragraphs" %} class="active" {% endif %} href="./paragraphs.html">Paragraphs</a>
     </li>
     <li>
-      <a {% if include.side contains "links" %} class="active" {% endif %} href="./links.html">Links</a>
+      <a {% if include.side contains "Links" %} class="active" {% endif %} href="./links.html">Links</a>
     </li>
     <li>
-      <a {% if include.side contains "images" %} class="active" {% endif %} href="./images.html">Images</a>
+      <a {% if include.side contains "Images" %} class="active" {% endif %} href="./images.html">Images</a>
     </li>
     <li>
       <a {% if include.side contains "lists" %} class="active" {% endif %} href="./lists.html">Lists</a>
