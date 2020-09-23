@@ -1,6 +1,6 @@
 ---
 layout: main
-nav: javascript
-side: images
+nav: Javascript
+side: Events
 ---
 {% include content.md nav=page.nav side=page.side %}

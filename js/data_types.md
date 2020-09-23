@@ -1,6 +1,6 @@
 ---
 layout: main
-nav: javascript
-side: lists
+nav: Javascript
+side: Data types
 ---
 {% include content.md nav=page.nav side=page.side %}

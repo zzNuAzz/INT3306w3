@@ -8,7 +8,7 @@
   </head>
 
   <body>
-    {% include sidebar.md side=page.side %}
+    {% include sidebar.md side=page.side nav=page.nav %}
     {% include navbar.md %} 
     {{ content }}
   </body>

@@ -1,6 +1,6 @@
 ---
 layout: main
-nav: javascript
-side: headings
+nav: Javascript
+side: RegExp
 ---
 {% include content.md nav=page.nav side=page.side %}

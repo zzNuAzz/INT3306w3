@@ -1,6 +1,6 @@
 ---
 layout: main
-nav: javascript
-side: paragraphs
+nav: Javascript
+side: Loops
 ---
 {% include content.md nav=page.nav side=page.side %}

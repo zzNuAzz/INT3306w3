@@ -1,6 +1,6 @@
 ---
 layout: main
-nav: javascript
-side: forms
+nav: HTML
+side: headings
 ---
 {% include content.md nav=page.nav side=page.side %}
