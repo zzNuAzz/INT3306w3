@@ -48,10 +48,10 @@
 }
 
 .content {
-  /* top: 50px; */
+  top: 50px;
   position: fixed;
   left: 300px;
   /* width: 300px; */
   padding: 20px;
-  margin-top: 50px;
+  /* margin-top: 50px; */
 }

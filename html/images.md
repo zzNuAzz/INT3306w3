@@ -1,6 +1,6 @@
 ---
 layout: main
 nav: HTML
-side: images
+side: Images
 ---
 {% include content.md nav=page.nav side=page.side %}
