@@ -8,8 +8,8 @@
   </head>
 
   <body>
-    {% include sidebar.md side=page.side nav=page.nav %}
     {% include navbar.md %} 
+    {% include sidebar.md side=page.side nav=page.nav %}
     {{ content }}
   </body>
 </html>

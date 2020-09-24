@@ -28,8 +28,6 @@
 
 {% endif %}
 
-<h1>{{include.nav}}</h1>
-
 {% if include.nav == "CSS" %}
 
 <div class="side-bar">
